@@ -1,1 +1,2 @@
 # okusuri-nometane
+chatGPTを使って薬の飲み忘れを防止するDiscord Botを実装していく実験
